@@ -1,0 +1,25 @@
+# Site settings
+title: Tom Van de Wiele
+header-img: img/home-bg.jpg
+email: tvdwiele@gmail.com
+description: "Blog of Tom Van de Wiele. Read about my projects."
+baseurl: ""
+url: "https://ttvand.github.io"
+facebook_username: tvdewiele
+github_username: ttvand
+linkedin_username: tom-van-de-wiele-a411a8136
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+future: true
+permalink: /:title/
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+analytics :
+  provider : google
+  google : 
+    tracking_id : 'UA-89904117-1'
+  getclicky :
+    site_id : 
