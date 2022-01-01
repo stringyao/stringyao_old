@@ -1,13 +1,13 @@
 # Site settings
-title: Tom Van de Wiele
+title: zjyao's blog
 header-img: img/home-bg.jpg
-email: tvdwiele@gmail.com
-description: "Blog of Tom Van de Wiele. Read about my projects."
+email: string_yao@163.com
+description: "一个金融民工的自我修养"
 baseurl: ""
-url: "https://ttvand.github.io"
-facebook_username: tvdewiele
-github_username: ttvand
-linkedin_username: tom-van-de-wiele-a411a8136
+url: "https://stringyao.github.io"
+facebook_username: zjyao
+github_username: zjyao
+linkedin_username: zjyao
 
 # Build settings
 markdown: kramdown
